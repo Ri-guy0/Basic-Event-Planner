@@ -1,0 +1,11 @@
+.bookings-chart {
+  margin: 1rem 10%;
+  padding: 2rem;
+  border: 1px solid #000000;
+}
+
+@media (min-width: 768px) {
+  .bookings-chart {
+    margin: 1rem 30%;
+  }
+}
