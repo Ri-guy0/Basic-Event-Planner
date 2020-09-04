@@ -1,13 +1,13 @@
 {
   "name": "basic",
   "version": "1.0.0",
-  "description": "",
+  "description": "A event planner program made with a tutorial by youtube channel Academind",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "Riley Delaney",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
